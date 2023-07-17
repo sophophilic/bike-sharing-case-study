@@ -44,9 +44,12 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - v3.9.0
+- Seaborn - v0.12.2
+- pandas - v2.0.1
+- matplotlib - v3.7.1
+- sklearn - v0.0.post5
+- statsmodels - v0.14.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
