@@ -35,9 +35,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## Conclusions
-- Temperature 	  : Increase in temp, increases the demand of bike rentals.
-- Year 		    :  2019 fared lot better than 2018 i.e. the company should see better rentals/demand once we are out of pandemic.
-- Summer Season  : There is more demand during summer season. Particularly month of August, the season of Spring, in which Aug falls, has a better demand than other months
+- Temperature 	  : Increase in temp, increases the demand of bike rentals.
+- Year 		    : 2019 fared lot better than 2018 i.e. the company should see better rentals/demand once we are out of pandemic.
+- Summer Season  : There is more demand during summer season. Particularly month of August, the season of Spring, in which Aug falls, has a better demand than other months
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
